@@ -1,2 +1,2 @@
 # HowToVanish website
-Repo for: www.howtovanish.com
+Repository for: www.howtovanish.com
