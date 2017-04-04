@@ -11,89 +11,53 @@ layout: default
 		</header>
 	</section>
 
-<!-- Highlights -->
+<!-- Main -->
 	<section class="wrapper style1">
 		<div class="container">
 			<div class="row double">
-				<section class="4u">
-					<div class="box highlight">
-						<i class="icon major fa-paper-plane"></i>
-						<h3>This Is Important</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</section>
-				<section class="4u">
-					<div class="box highlight">
-						<i class="icon major fa-pencil"></i>
-						<h3>Also Important</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</section>
-				<section class="4u">
-					<div class="box highlight">
-						<i class="icon major fa-wrench"></i>
-						<h3>Probably Important</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</section>
-			</div>
-		</div>
-	</section>
+				<div class="8u">
+					<div id="content">
 
-<!-- Gigantic Heading -->
-	<section class="wrapper style2">
-		<div class="container">
-			<header class="major">
-				<h2>A gigantic heading you can use for whatever</h2>
-				<p>With a much smaller subtitle hanging out just below it</p>
-			</header>
-		</div>
-	</section>
+						<!-- Content -->
+					
+							<article>
+								<header>
+									<h2>Right Sidebar</h2>
+									<p>Sidebar on the right, content on the left.</p>
+								</header>
+								
+								<span class="image featured"><img src="{{ site.baseurl }}/assets/images/banner.jpg" alt="" /></span>
+								
+								<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
+								Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 
+								Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi 
+								consequat etiam lorem ipsum dolor sit amet nullam.</p>
+								
+								<h3>And Yet Another Subheading</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus 
+								justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis, 
+								ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet 
+								vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor. 
+								Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis 
+								rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien. 
+								Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi. 
+								Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.</p>
 
-<!-- Posts -->
-	<section class="wrapper style1">
-		<div class="container">
-			<div class="row">
-				<section class="6u">
-					<div class="box post">
-						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" /></a>
-						<div class="inner">
-							<h3>The First Thing</h3>
-							<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-						</div>
+								<p>Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim 
+								quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu. 
+								Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna, 
+								fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium. 
+								Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu. 
+								Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.</p>
+							</article>
+				
 					</div>
-				</section>
-				<section class="6u">
-					<div class="box post">
-						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></a>
-						<div class="inner">
-							<h3>The Second Thing</h3>
-							<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-						</div>
-					</div>
-				</section>
-			</div>
-			<div class="row">
-				<section class="6u">
-					<div class="box post">
-						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" /></a>
-						<div class="inner">
-							<h3>The Third Thing</h3>
-							<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-						</div>
-					</div>
-				</section>
-				<section class="6u">
-					<div class="box post">
-						<a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/pic04.jpg" alt="" /></a>
-						<div class="inner">
-							<h3>The Fourth Thing</h3>
-							<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-						</div>
-					</div>
-				</section>
+				</div>
+				<div class="4u">
+					{% include sidebar.html %}
+				</div>
 			</div>
 		</div>
-	</section>
+	</section>			
 	
 	{% include cta.html %}
