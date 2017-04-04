@@ -270,6 +270,7 @@
 
 			.image.featured img {
 				display: block;
+				position: absolute;
 				width: 376px;
 				height: 179px;
 			}
