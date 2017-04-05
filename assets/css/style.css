@@ -90,6 +90,11 @@
 		letter-spacing: -0.025em;
 	}
 
+	h4 {
+		font-size: .8em;
+		letter-spacing: -0.025em;
+	}
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -270,7 +275,9 @@
 
 			.image.featured img {
 				display: block;
-				width: 100%;
+				position: absolute;
+				width: 376px;
+				height: 179px;
 			}
 
 /* Icon */
@@ -561,12 +568,7 @@
 
 	#header {
 		text-align: center;
-		padding: 3em 0 0 0;
-		background-color: #fff;
-		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
-		background-position: top left,					top left,					top left;
-		background-size: 100% 6em,					100% 6em,					auto;
-		background-repeat: no-repeat,					no-repeat,					repeat;
+		background-color: #000;
 	}
 
 		#header h1 {
@@ -748,7 +750,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 5em 0 3em 0;
+		padding: 2em 0 1em 0;
 	}
 
 		.wrapper.style1 {
@@ -839,3 +841,88 @@
 			text-align: center;
 			font-size: 0.9em;
 		}
+
+/* Custom */
+#block1
+{
+  width: 415px;
+}
+#block2
+{
+  width: 340px;
+}
+#block3
+{
+
+  width: 415px;
+}
+#block4
+{
+  width: 340px;
+}
+#block5
+{
+	margin-top: 1em; 
+	background: #e3e3e3; 
+	border-style: solid; 
+	border-color: #ddd;
+  width: 378px;
+  padding-right: 2.2em; 
+	padding-left: 2.2em; 
+	padding-top: 1em; 
+}
+#block6
+{
+	margin-top: 1em; 
+	background: #e3e3e3; 
+	border-style: solid; 
+	border-color: #ddd;
+  width: 377px;
+  padding-right: 2.2em; 
+	padding-left: 2.2em; 
+	padding-top: 1em; 
+}
+#block7
+{
+  width: 250px;
+}
+#block8
+{
+  width: 500px;
+}
+.clearfix {
+  clear:both;
+}
+#feature_box { 
+	background: #e3e3e3; 
+	border-style: solid; 
+	border-color: #ddd; 
+	padding-right: 2.2em; 
+	padding-left: 2.2em; 
+	padding-top: 1em; 
+}
+#form {
+	padding-right: 2.2em;
+	padding-left: 2.2em;
+	padding-top: 1em;
+}
+.headline_meta {
+	font-style: italic;
+	color: #888888;
+}
+.headline_meta span, .headline_meta abbr { 
+	font-style: normal; 
+	text-transform: 
+	uppercase; 
+	letter-spacing: 1px; 
+}
+.headline_meta a { 
+	border-bottom: 1px solid #eee; 
+}
+.headline_meta { 
+	font-size: .5em;
+	line-height: 1.8em; 
+}
+.headline_meta .pad_left { 
+	padding-left: 0.9em; 
+}

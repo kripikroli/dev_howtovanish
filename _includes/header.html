@@ -29,7 +29,7 @@
 			<div id="header">
 						
 				<!-- Logo -->
-					<h1><a href="{{ site.baseurl }}/index.html" id="logo">How To Vanish</em></a></h1>
+		<center><img src="images/head-logo-1.jpg"/></center>
 				
 				<!-- Nav -->
 					<nav id="nav">
@@ -37,7 +37,7 @@
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 							<li>
-								<a href="">About</a>
+								<a href="{{ site.baseurl }}/about.html">About</a>
 								<ul>
 									<li><a href="#">Contact</a></li>
 									<li><a href="#">Purpose</a></li>
