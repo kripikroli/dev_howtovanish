@@ -270,7 +270,9 @@
 
 			.image.featured img {
 				display: block;
-				width: 100%;
+				position: absolute;
+				width: 376px;
+				height: 179px;
 			}
 
 /* Icon */
@@ -561,12 +563,7 @@
 
 	#header {
 		text-align: center;
-		padding: 3em 0 0 0;
-		background-color: #fff;
-		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
-		background-position: top left,					top left,					top left;
-		background-size: 100% 6em,					100% 6em,					auto;
-		background-repeat: no-repeat,					no-repeat,					repeat;
+		background-color: #000;
 	}
 
 		#header h1 {
