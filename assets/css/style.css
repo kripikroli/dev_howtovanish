@@ -882,6 +882,14 @@
 	padding-left: 2.2em; 
 	padding-top: 1em; 
 }
+#block7
+{
+  width: 250px;
+}
+#block8
+{
+  width: 500px;
+}
 .clearfix {
   clear:both;
 }
