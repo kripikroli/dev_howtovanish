@@ -29,7 +29,7 @@
 			<div id="header">
 						
 				<!-- Logo -->
-		<center><img src="images/head-logo-1.jpg"/></center>
+					<h1><a href="{{ site.baseurl }}/index.html" id="logo">How To Vanish</em></a></h1>
 				
 				<!-- Nav -->
 					<nav id="nav">
@@ -37,13 +37,13 @@
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 							<li>
-								<a href="{{ site.baseurl }}/about.html">About</a>
+								<a href="">About</a>
 								<ul>
 									<li><a href="#">Contact</a></li>
 									<li><a href="#">Purpose</a></li>
 								</ul>
 							</li>
-							<li><a href="">Archive</a></li>
+							<li><a href="#">Blog</a></li>
 							<li>
 								<a href="">Products</a>
 								<ul>
@@ -52,11 +52,16 @@
 									<li><a href="#">How To Vanish The Book</a></li>
 									<li><a href="#">Tax Domicile Report</a></li>
 									<li><a href="#">Secrets Of Independent Contractors</a></li>
-									<li><a href="#">5 Steps Anonymous Online Speech</a></li>
+									<li><a href="#">5 Steps To Anonymous Online Speech</a></li>
 								</ul>
 							</li>
-							<li><a href="">Privacy</a></li>
-							<li><a href="">Start Here</a></li>
+							<li>
+								<a href="">Privacy Tools</a>
+								<ul>
+									<li><a href="#">Privacy Software</a></li>
+								</ul>
+							</li>
+							<li><a href="#">New? Start Here</a></li>
 						</ul>
 					</nav>
 

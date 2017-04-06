@@ -270,9 +270,7 @@
 
 			.image.featured img {
 				display: block;
-				position: absolute;
-				width: 376px;
-				height: 179px;
+				width: 100%;
 			}
 
 /* Icon */
@@ -563,7 +561,12 @@
 
 	#header {
 		text-align: center;
-		background-color: #000;
+		padding: 3em 0 0 0;
+		background-color: #fff;
+		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
+		background-position: top left,					top left,					top left;
+		background-size: 100% 6em,					100% 6em,					auto;
+		background-repeat: no-repeat,					no-repeat,					repeat;
 	}
 
 		#header h1 {
@@ -699,7 +702,7 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../images/how-to-banner.jpg");
+		background-image: url("/images/logo.jpg");
 		background-position: center center;
 		background-size: cover;
 		height: 28em;
