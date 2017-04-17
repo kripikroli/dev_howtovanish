@@ -1,57 +1,7 @@
 ---
 layout: post
 title: NSA Proof Mobile Phone Call Encryption
-date: 2015-02-08 10:56:55.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Data Mining
-- Electronic Data
-- How To Vanish
-- Personal Privacy
-tags:
-- blackphone
-- cell phone encryption
-- encryption apps
-- lapd
-- NSA
-- Redphone
-- signal
-- Silent Circle
-- stingray
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  custom_retweet_text: ''
-  enable_retweet_button: '1'
-  thesis_description: Make your mobile phone NSA proof and encrypt your mobile phone
-    calls.
-  _jd_twitter: ''
-  _jd_tweet_this: 'yes'
-  _wpt_short_url: http://bit.ly/1Kx2a0i
-  bitcointips_address: 1P2YaN7h2nynvpaCaNEMpPf9AYiPtNjXy1
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2015/02/nsa-proof-mobile-phone-call-encryption/
-  views: '9768'
-  _jd_wp_twitter: 'a:1:{i:0;s:102:"New post: NSA Proof Mobile Phone Call Encryption
-    http://bit.ly/1Kx2a0i Like this post? Please ReTweet.";}'
-  _wpt_status_message: Tweet sent successfully.
-  thesis_keywords: encryption apps, cell phone encryption, nsa, lapd, blackphone,
-    signal, silent circle, redphone, stingray
-  thesis_post_image: http://www.howtovanish.com/images/robot-shield.jpg
-  thesis_post_image_alt: robot shield
-  thesis_thumb: http://www.howtovanish.com/images/thumb-robot-shield.jpg
-  thesis_thumb_alt: thumb robot shield
-  thesis_thumb_width: '66'
-  thesis_thumb_height: '66'
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: Make your mobile phone NSA proof and encrypt your mobile phone calls.
 ---
 <p>The <a href="https://firstlook.org/theintercept/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/" target="_blank">NSA records cell phone calls</a>, saves them and searches them. According to Glenn Greenwald, the <a href="http://www.computerworld.com/article/2473898/data-privacy/nsa-collected-1-trillion-metadata-records--harvested-1-billion-mobile-calls-daily.html" target="_blank">NSA can collect over 1 billion phone calls per day</a>.  The <a href="http://firstamendmentcoalition.org/2013/02/lapds-use-of-stingray-cell-phone-monitoring-tool-revealed-by-fac-public-records-request/" target="_blank">LAPD has been caught using a Stingray device</a> which can <a href="http://www.howtovanish.com/2015/01/tin-foil-hat-for-your-phone/" target="_blank">track cell phones</a> and <a href="http://en.wikipedia.org/wiki/Cellphone_surveillance" target="_blank">record unencrypted  mobile phone calls</a>. There are at least 3 ways to make your mobile phone <a href="http://www.howtovanish.com/2015/02/nsa-proof-mobile-phone-call-encryption" target="_blank">NSA proof and encrypt your mobile phone calls</a>.</p>
 <h2>1. Encryption Apps</h2>
