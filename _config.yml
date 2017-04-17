@@ -2,3 +2,4 @@ name: How To Vanish
 description: How To Vanish
 paginate: 10
 baseurl: ''
+permalink: /:title
