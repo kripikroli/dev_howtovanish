@@ -1,53 +1,7 @@
 ---
 layout: post
 title: Felix Moreno de la Cova Endorses Trace Mayer For Bitcoin Foundation Board Seat
-date: 2013-09-10 23:48:37.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Training
-tags:
-- bitcoin foundation
-- felix moreno de la cova
-- trace mayer
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  enable_retweet_button: '1'
-  custom_retweet_text: ''
-  thesis_title: Felix Moreno de la Cova Endorses Trace Mayer For Bitcoin Foundation
-    Board Seat
-  thesis_description: On September 16-23rd the Bitcoin Foundation will be holding
-    the final elections for two seats on the board of directors for the Industry and
-    Individual seats.
-  thesis_keywords: 'felix moreno de la cova, trace mayer, bitcoin foundation, '
-  thesis_post_image: http://howtovanish.com/images/bitcoin-foundation-trace-mayer-felix-moreno-de-la-cova.jpg
-  _jd_tweet_this: 'yes'
-  thesis_post_image_alt: bitcoin foundation trace mayer felix moreno de la cova
-  thesis_thumb: http://howtovanish.com/images/thumb-bitcoin-foundation-trace-mayer-felix-moreno-de-la-cova.jpg
-  thesis_thumb_alt: thumb bitcoin foundation trace mayer felix moreno de la cova
-  bitcointips_address: 18wTfY2fGXJ5LUcUcWy5QZ5Y5PoPF2HAh6
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2013/09/felix-moreno-de-la-cova-endorses-trace-mayer-for-bitcoin-foundation-board-seat/
-  views: '10141'
-  _wp_jd_bitly: http://bit.ly/17Ag6nA
-  _wpt_failed: 'a:5:{s:6:"author";b:0;s:8:"sentence";s:140:"Post Edited: Felix Moreno
-    de la Cova Endorses Trace Mayer For Bitcoin Foundation Board http://bit.ly/17Ag6nA
-    Like this post? Please ReTweet.";s:5:"error";s:204:"403 Forbidden: The request
-    is understood, but it has been refused by Twitter. Reasons: Too many Tweets in
-    a short time or the same Tweet was submitted twice, among others. Not an error
-    from WP to Twitter.";s:4:"code";i:403;s:9:"timestamp";i:1379273703;}'
-  thesis_thumb_width: '66'
-  thesis_thumb_height: '66'
-author:
-  login: tracemayer
-  email: trace@trace-mayer.com
-  display_name: Lohengrin
-  first_name: Lohengrin
-  last_name: ''
-excerpt: On September 16-23rd the Bitcoin Foundation will be holding the final elections
-  for two seats on the board of directors for the Industry and Individual seats.
 ---
 <p>On September 16-23rd the <a title="bitcoin foundation" href="http://www.bitcoinfoundation.org/" target="_blank">Bitcoin Foundation</a> will be holding the <a title="bitcoin foundation board director election" href="https://bitcoinfoundation.org/blog/?p=226" target="_blank">final elections for two seats on the board of directors</a> for the Industry and Individual seats.</p>
 <p>In this video, Bitcoin expert and enthusiast <a title="felix moreno de la cova" href="http://bitcoin.org/en/press" target="_blank">Felix Moreno de la Cova</a> , a trader and portfolio manager from Spain who has discussed Bitcoin on <a title="lasexta bitcoin felix moreno de la cova" href="http://www.lasexta.com/noticias/economia/bitcoin-estafa-moneda-futuro_2013040900240.html" target="_blank">La Sexta</a>, <a title="lasexta bitcoin felix moreno de la cova" href="http://actualidad.rt.com/economia/view/90076-bitcoin-fracaso-euro" target="_blank">Russia Today</a> and with <a title="goldmoney felix moreno de la cova bitcoin" href="http://www.youtube.com/watch?v=wfzHC7Pf2fk" target="_blank">GoldMoney</a>, endorses <a title="trace mayer" href="http://www.tracemayer.net/" target="_blank">Trace Mayer</a> for the Individual seat and they discuss the vision and future of the Foundation and how the financial capital should be allocated.</p>
