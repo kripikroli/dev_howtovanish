@@ -1,36 +1,7 @@
 ---
 layout: post
 title: Restraining Orders Protect You and Your Privacy
-date: 2015-04-12 07:51:47.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Personal Privacy
-tags: []
-meta:
-  custom_retweet_text: ''
-  naff_exclude: 'false'
-  _edit_last: '3'
-  _jd_twitter: ''
-  _jd_tweet_this: 'yes'
-  _wpt_short_url: http://bit.ly/1GBrfYL
-  bitcointips_address: 1JDiWzxapYxbWZNJ9Np8gEPsoNAxMpJk1L
-  enable_retweet_button: '1'
-  thesis_description: Restraining Orders Protect You and Your Privacy
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2015/04/restraining-orders-protect-you-and-your-privacy/
-  views: '6176'
-  _jd_wp_twitter: 'a:1:{i:0;s:111:"New post: Restraining Orders Protect You and Your
-    Privacy http://bit.ly/1GBrfYL Like this post? Please ReTweet.";}'
-  _wpt_status_message: Tweet sent successfully.
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: Restraining Orders Protect You and Your Privacy
 ---
 <p>In <a href="http://www.imdb.com/title/tt0055824/" target="_blank">Cape Fear</a>, Robert Mitchum (or <a href="http://www.imdb.com/title/tt0101540/" target="_blank">Robert DeNiro</a>, depending on which Robert you prefer) are just creepy enough to be threatening, but not enough to be convicted of a crime. One reason why privacy is important is because it provides safety and security from would-be creepers like Robert.</p>
 <p>The law is usually a last resort to protecting privacy, so if you have already been annoyed, harassed or threatened by specific individuals (they don't have to be named Robert), you may rely on restraining orders to protect your privacy.</p>
