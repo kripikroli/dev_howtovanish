@@ -1,46 +1,7 @@
 ---
 layout: post
 title: 3 Takeaways From Kaspersky Reports
-date: 2015-03-19 21:45:04.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Data Mining
-- How To Vanish
-- Personal Privacy
-tags:
-- digital hermit
-- infected computer
-- kaspersky
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  custom_retweet_text: ''
-  _jd_twitter: ''
-  _jd_tweet_this: 'yes'
-  thesis_title: 3 Takeaways From Kaspersky Report
-  enable_retweet_button: '1'
-  thesis_description: 3 Takeaways From Kaspersky Report
-  _wp_jd_target: http://www.howtovanish.com/2015/03/3-takeaways-from-kaspersky-reports/
-  _wpas_done_all: '1'
-  views: '4696'
-  _wpt_short_url: http://bit.ly/19EsVmS
-  _jd_wp_twitter: 'a:1:{i:0;s:98:"New post: 3 takeaways from kaspersky reports http://bit.ly/19EsVmS
-    Like this post? Please ReTweet.";}'
-  _wpt_status_message: Tweet sent successfully.
-  bitcointips_address: 1B98LD8hy3s1WsXCFfzL6ht4Njo2T7Rhv6
-  thesis_post_image: http://www.howtovanish.com/images/infected-computer.jpg
-  thesis_post_image_alt: infected computer
-  thesis_thumb: http://www.howtovanish.com/images/thumb-infected-computer.jpg
-  thesis_thumb_alt: thumb infected computer
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: 3 Takeaways From Kaspersky Report
 ---
 <h2>3 Takeaways From Kaspersky Report</h2>
 <p>Kaspersky has made <a href="http://securelist.com/files/2015/02/Equation_group_questions_and_answers.pdf" target="_blank">credible reports</a> that virtually all computers have been compromised with malicious code, giving the <a title="nsa spying" href="http://www.howtovanish.com/2015/03/3-takeaways-from-kaspersky-reports" target="_blank">NSA secret access</a> to any computer they want. There is no way to fix the intrusion and it is incredibly difficult to even detect. What does this mean for the privacy of anything we do with our <a title="privacy software" href="http://www.howtovanish.com/privacy-tools-and-resources/privacy-software/" target="_blank">electronic devices</a>?</p>
