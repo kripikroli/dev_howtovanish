@@ -1,53 +1,7 @@
 ---
 layout: post
 title: Is Privacy Attainable?
-date: 2015-01-24 22:56:54.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- How To Vanish
-- Personal Privacy
-tags:
-- anonymous web surfing
-- information privacy
-- internet privacy
-- personal information
-- surveillance
-- technology
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  custom_retweet_text: ''
-  enable_retweet_button: '1'
-  thesis_title: Is Privacy Attainable
-  _jd_twitter: ''
-  _jd_tweet_this: 'yes'
-  thesis_description: Is Privacy Attainable? These three programs cause catastrophic
-    failure of NSA surveillance.
-  thesis_keywords: internet privacy, information privacy, personal information, surveillance,
-    anonymous web surfing, technology
-  _wp_jd_bitly: http://bit.ly/1wvqAhg
-  bitcointips_address: 1tXWCHWXWuzNHnYAvEsnkVDH6fPjbAbmx
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2015/01/is-privacy-attainable/
-  views: '5081'
-  _jd_wp_twitter: 'a:2:{i:0;s:86:"New post: Is Privacy Attainable? http://bit.ly/1wvqAhg
-    Like this post? Please ReTweet.";i:1;s:89:"Post Edited: Is Privacy Attainable?
-    http://bit.ly/1wvqAhg Like this post? Please ReTweet.";}'
-  _wpt_status_message: Tweet sent successfully.
-  thesis_post_image: http://www.howtovanish.com/images/privacy-card.jpg
-  thesis_post_image_alt: privacy card
-  thesis_thumb: http://www.howtovanish.com/images/thumb-privacy-card.jpg
-  thesis_thumb_alt: thumb privacy card
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: Is Privacy Attainable? These three programs cause catastrophic failure of
-  NSA surveillance.
 ---
 <p>Is Privacy attainable?</p>
 <p>Or is permanent, ubiquitous surveillance a foregone conclusion?</p>
