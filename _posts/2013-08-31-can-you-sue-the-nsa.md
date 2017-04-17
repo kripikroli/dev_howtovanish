@@ -1,51 +1,7 @@
 ---
 layout: post
 title: Can You Sue The NSA?
-date: 2013-08-31 17:31:31.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Data Mining
-- Electronic Data
-- Personal Privacy
-tags:
-- How To Vanish
-- lawsuit
-- NSA
-- prism
-- privacy
-- surveillance
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  custom_retweet_text: ''
-  enable_retweet_button: '1'
-  thesis_title: Can You Sue The NSA
-  _jd_tweet_this: 'yes'
-  thesis_description: Can You Sue The NSA? Your Constitutional rights may have been
-    violated and a lawsuit may be one way to protect those rights.
-  thesis_keywords: NSA, surveillance, lawsuit, PRISM, privacy, How To Vanish
-  bitcointips_address: 1EiFe1sVCmtmrm6fuVi9ePeEYUVrcN1xce
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2013/08/can-you-sue-the-nsa/
-  views: '10745'
-  _wp_jd_bitly: http://bit.ly/14hralO
-  _jd_wp_twitter: 'a:2:{i:0;s:84:"New post: Can You Sue The NSA? http://bit.ly/14hralO
-    Like this post? Please ReTweet.";i:1;s:87:"Post Edited: Can You Sue The NSA? http://bit.ly/14hralO
-    Like this post? Please ReTweet.";}'
-  thesis_post_image: http://www.howtovanish.com/images/nsa-world.jpg
-  thesis_post_image_alt: nsa world
-  thesis_thumb: http://www.howtovanish.com/images/thumb-statue-liberty-eye-sauron.jpg
-  thesis_thumb_alt: thumb statue of liberty eye of sauron
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: Can You Sue The NSA? Your Constitutional rights may have been violated and
-  a lawsuit may be one way to protect those rights.
 ---
 <p>Lawsuits are blunt instruments for protecting rights, but sometimes they are the tool you need. Lawsuits over the NSA spying programs have multiplied over the past several weeks, spurred in large part by the numerous revelations about the existence and extent of the US government spying program targeting citizens. You may even be wondering if you have been a victim and if you are, whether or not you can do something about it. Can you sue the NSA for spying on you?</p>
 <p>To answer this question, we will look at some of the Constitutional legal grounds that some lawsuits are invoking, what the courts have ruled in the past on these issues, what arguments could be successful, and whether you think you should talk to a lawyer about your specific case.</p>
