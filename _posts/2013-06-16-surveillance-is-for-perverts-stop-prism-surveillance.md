@@ -1,59 +1,7 @@
 ---
 layout: post
 title: Surveillance Is For Perverts – Stop PRISM Surveillance
-date: 2013-06-16 18:45:17.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Data Mining
-- Electronic Data
-- How To Vanish
-- Personal Privacy
-tags:
-- perverts
-- prism
-- surveillance
-meta:
-  naff_exclude: 'false'
-  _edit_last: '3'
-  custom_retweet_text: ''
-  thesis_description: Stop PRISM Surveillance with privacy tools and techniques. Do
-    not give these perverts with a surveillance fetish any satisfaction with your
-    information.
-  _jd_tweet_this: 'yes'
-  enable_retweet_button: '1'
-  thesis_post_image: http://www.howtovanish.com/images/prism-perverts.jpg
-  _wpas_done_all: '1'
-  _wp_jd_target: ''
-  views: '19099'
-  _wp_jd_bitly: http://bit.ly/ZWdrlr
-  _jd_wp_twitter: 'a:3:{i:0;s:119:"New post: Surveillance Is For Perverts – Stop PRISM
-    Surveillance http://bit.ly/ZWdrlr Like this post? Please ReTweet.";i:1;s:122:"Post
-    Edited: Surveillance Is For Perverts – Stop PRISM Surveillance http://bit.ly/ZWdrlr
-    Like this post? Please ReTweet.";i:2;s:122:"Post Edited: Surveillance Is For Perverts
-    – Stop PRISM Surveillance http://bit.ly/ZWdrlr Like this post? Please ReTweet.";}'
-  _wpt_failed: 'a:5:{s:6:"author";b:0;s:8:"sentence";s:122:"Post Edited: Surveillance
-    Is For Perverts – Stop PRISM Surveillance http://bit.ly/ZWdrlr Like this post?
-    Please ReTweet.";s:5:"error";s:71:"This tweet is identical to another Tweet recently
-    sent to this account.";s:4:"code";i:403;s:9:"timestamp";i:1371457526;}'
-  thesis_title: Surveillance Is For Perverts – Stop PRISM Surveillance
-  thesis_post_image_alt: prism perverts
-  thesis_thumb: http://www.howtovanish.com/images/thumb-prism-perverts.jpg
-  thesis_thumb_alt: thumb prism perverts
-  thesis_keywords: prism, perverts, surveillance
-  bitcointips_address: 1FxXM4Swd3Lg1t2JX3usCM9m6hxU4hYNW3
-  bitcointips_sum: '3814000'
-  bitcointips_avg: '3814000'
-  bitcointips_count: '1'
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: Stop PRISM Surveillance with privacy tools and techniques. Do not give these
-  perverts with a surveillance fetish any satisfaction with your information.
 ---
 <p>It is hard to argue that the American surveillance state is much different from the surveillance state of communist East Germany, the Soviet Union, or any other dictatorship. East Germans, Soviet Russians, and others living under a dictator's boot largely accepted such perverted surveillance as inevitable and unavoidable. Many Americans will do the same, not even trying to stop PRISM surveillance.</p>
 <p>Human beings have a right not to be under surveillance by the same people who can charge them with a crime, confiscate all their property, put them in jail, or drone them to death, unless there is a compelling reason to do so, on an individual case by case basis, approved by a neutral third party.  Anything else is a perversion of the fundamental rights of humans.</p>
