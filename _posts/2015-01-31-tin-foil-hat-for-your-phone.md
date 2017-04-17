@@ -1,59 +1,7 @@
 ---
 layout: post
 title: Tin Foil Hat For Your Phone
-date: 2015-01-31 11:29:28.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Electronic Data
-- How To Vanish
-- Personal Privacy
-- Travel
-tags:
-- cell phone location tracking
-- faraday cage
-- faraday shield
-- limit cell phone surveillance
-- tin foil hat
-meta:
-  bitcointips_sum: '687314'
-  bitcointips_count: '2'
-  naff_exclude: 'false'
-  _edit_last: '1'
-  custom_retweet_text: ''
-  enable_retweet_button: '1'
-  thesis_title: Tin Foil Hat For Your Phone
-  _jd_twitter: ''
-  _jd_tweet_this: 'yes'
-  thesis_description: Get a tin foil hat for your phone to stop cell phone tracking
-    and surveillance.
-  _wp_jd_bitly: http://bit.ly/1HyTzfu
-  bitcointips_address: 1A56pdRpmu1R2SF4gqJ6HDZJ8Spv5xmj1S
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2015/01/tin-foil-hat-for-your-phone/
-  thesis_post_image: http://www.howtovanish.com/images/tin-foil-hat-iphone.jpg
-  views: '3'
-  _jd_wp_twitter: 'a:2:{i:0;s:91:"New post: Tin Foil Hat For Your Phone http://bit.ly/1HyTzfu
-    Like this post? Please ReTweet.";i:1;s:94:"Post Edited: Tin Foil Hat For Your
-    Phone http://bit.ly/1HyTzfu Like this post? Please ReTweet.";}'
-  _wpt_status_message: This tweet is identical to another Tweet recently sent to this
-    account. Twitter requires all Tweets to be unique.
-  bitcointips_avg: '343657'
-  thesis_post_image_alt: tin foil hat iphone
-  thesis_thumb: http://www.howtovanish.com/images/thumb-tin-foil-hat-iphone.jpg
-  thesis_thumb_alt: thumb tin foil hat iphone
-  _wpt_failed: 'a:5:{s:6:"author";b:0;s:8:"sentence";s:94:"Post Edited: Tin Foil Hat
-    For Your Phone http://bit.ly/1HyTzfu Like this post? Please ReTweet.";s:5:"error";s:113:"This
-    tweet is identical to another Tweet recently sent to this account. Twitter requires
-    all Tweets to be unique.";s:4:"code";i:403;s:9:"timestamp";i:1422734033;}'
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: Get a tin foil hat for your phone to stop cell phone tracking and surveillance.
 ---
 <p>Most of us <a title="tin foil hat for your phone" href="http://www.howtovanish.com/2015/01/tin-foil-hat-for-your-phone/" target="_blank">carry surveillance devices with us at all times</a>. The East German Stasi could not have dreamed of a better system of surveillance than cell phones. Your phone probably knows more about you than you know about yourself. You need a tin foil hat for your phone.</p>
 <p><a title="tracking" href="http://www.zeit.de/digital/datenschutz/2011-03/data-protection-malte-spitz" target="_blank">Your location and movements can be tracked</a> by triangulating the signal from your phone with multiple cell towers. The GPS capabilities of your phone allows even more precise tracking. The same is true of the wifi signals that reach your phone. <a href="http://abc7.com/news/investigation-law-enforcement-use-secret-devices-to-track-cell-phone-signals/421190/" target="_blank">Police drive around picking up info from cell phones in range</a>.</p>
