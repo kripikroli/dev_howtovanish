@@ -1,57 +1,7 @@
 ---
 layout: post
 title: How To Make A Business Vanish - Keeping Funds In Banks Or Bitcoin
-date: 2013-03-28 12:52:24.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Training
-tags:
-- bank account stolen
-- bank fo canada
-- bank of england
-- Bitcoin
-- business
-- cyprus
-- payroll
-meta:
-  enable_retweet_button: '1'
-  naff_exclude: 'false'
-  _edit_last: '1'
-  custom_retweet_text: ''
-  thesis_title: How To Make A Business Vanish - Keeping Funds In Banks Or Bitcoin
-  thesis_description: A cautionary tale from a medium sized Information Technology
-    business that is now headed to failure because Cyprus stole $700k to bailout failed
-    banks.
-  _jd_tweet_this: 'yes'
-  thesis_keywords: cyprus, bank account stolen, bitcoin, business, payroll, bank of
-    england, bank fo canada
-  thesis_post_image: http://www.howtovanish.com/images/cyprus-bank-account-stolen.jpg
-  thesis_post_image_alt: cyprus bank account stolen
-  thesis_thumb: http://www.howtovanish.com/images/thumb-cyprus-bank-account-stolen.jpg
-  thesis_thumb_alt: thumb cyprus bank account stolen
-  _wp_jd_target: http://www.howtovanish.com/2013/03/how-to-make-a-business-vanish-keeping-funds-in-banks-or-bitcoin/
-  _wpas_done_all: '1'
-  views: '18043'
-  _wp_jd_bitly: http://bit.ly/YJpIvr
-  _jd_wp_twitter: 'a:2:{i:0;s:128:"New post: How To Make A Business Vanish - Keeping
-    Funds In Banks Or Bitcoin http://bit.ly/YJpIvr Like this post? Please ReTweet.";i:1;s:131:"Post
-    Edited: How To Make A Business Vanish - Keeping Funds In Banks Or Bitcoin http://bit.ly/YJpIvr
-    Like this post? Please ReTweet.";}'
-  _wpt_failed: 'a:5:{s:6:"author";b:0;s:8:"sentence";s:131:"Post Edited: How To Make
-    A Business Vanish - Keeping Funds In Banks Or Bitcoin http://bit.ly/YJpIvr Like
-    this post? Please ReTweet.";s:5:"error";s:71:"This tweet is identical to another
-    Tweet recently sent to this account.";s:4:"code";i:403;s:9:"timestamp";i:1365298094;}'
-  bitcointips_address: 1CJcUzDUjU9VMD2s8mJG3wF6L4Gt7wevPr
-author:
-  login: tracemayer
-  email: trace@trace-mayer.com
-  display_name: Lohengrin
-  first_name: Lohengrin
-  last_name: ''
-excerpt: A cautionary tale from a medium sized Information Technology business that
-  is now headed to failure because Cyprus stole $700k to bailout failed banks.
 ---
 <p>[HTML1]</p>
 <p>What happens when a business cannot make payroll? Poof, the <a title="business vanishes" href="http://www.howtovanish.com/2013/03/how-to-make-a-business-vanish-keeping-funds-in-banks-or-bitcoin" target="_blank">business vanishes</a>! That is what happens.</p>
