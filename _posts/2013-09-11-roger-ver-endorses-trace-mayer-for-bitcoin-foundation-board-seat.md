@@ -1,50 +1,7 @@
 ---
 layout: post
 title: Roger Ver Endorses Trace Mayer For Bitcoin Foundation Board Seat
-date: 2013-09-11 01:48:36.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Training
-tags:
-- bitcoin foundation
-- roger ver
-- trace mayer
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  custom_retweet_text: ''
-  thesis_title: Roger Ver Endorses Trace Mayer For Bitcoin Foundation Board Seat
-  thesis_description: On September 16-23rd the Bitcoin Foundation will be holding
-    the final elections for two seats on the board of directors for the Industry and
-    Individual seats.
-  thesis_keywords: bitcoin foundation, roger ver, trace mayer
-  thesis_post_image: http://www.howtovanish.com/images/bitcoin-foundation-trace-mayer-roger-ver.jpg
-  _jd_tweet_this: 'yes'
-  thesis_post_image_alt: bitcoin foundation trace mayer roger ver
-  thesis_thumb: http://www.howtovanish.com/images/thumb-bitcoin-foundation-trace-mayer-roger-ver.jpg
-  thesis_thumb_alt: thumb bitcoin foundation trace mayer roger ver
-  bitcointips_address: 1LAgCE2K4EFYy5Gzdmt2dcHbFL2XHeVubC
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2013/09/roger-ver-endorses-trace-mayer-for-bitcoin-foundation-board-seat/
-  views: '54511'
-  _wp_jd_bitly: http://bit.ly/1b48o8Y
-  _jd_wp_twitter: 'a:1:{i:0;s:128:"New post: Roger Ver Endorses Trace Mayer For Bitcoin
-    Foundation Board Seat http://bit.ly/1b48o8Y Like this post? Please ReTweet.";}'
-  thesis_thumb_width: '66'
-  thesis_thumb_height: '66'
-  bitcointips_sum: '1250000'
-  bitcointips_avg: '625000'
-  bitcointips_count: '2'
-author:
-  login: tracemayer
-  email: trace@trace-mayer.com
-  display_name: Lohengrin
-  first_name: Lohengrin
-  last_name: ''
-excerpt: On September 16-23rd the Bitcoin Foundation will be holding the final elections
-  for two seats on the board of directors for the Industry and Individual seats.
 ---
 <p><span style="font-size: 13px; line-height: 19px;">On September 16-23rd the </span><a style="font-size: 13px; line-height: 19px;" title="bitcoin foundation" href="http://www.bitcoinfoundation.org" target="_blank">Bitcoin Foundation</a><span style="font-size: 13px; line-height: 19px;"> will be holding the </span><a style="font-size: 13px; line-height: 19px;" title="bitcoin foundation board director election" href="https://bitcoinfoundation.org/blog/?p=226" target="_blank">final elections for two seats on the board of directors</a><span style="font-size: 13px; line-height: 19px;"> for the Industry and Individual seats.</span></p>
 <p>In this video, Bitcoin expert and enthusiast <a title="roger ver" href="http://www.memorydealers.com" target="_blank">Roger Ver</a> who is a founding member of the Bitcoin Foundation and major financial contributor endorses <a title="trace mayer" href="http://www.tracemayer.net" target="_blank">Trace Mayer</a> for the Individual seat and they discuss the vision and future of the Foundation and how the financial capital should be allocated.</p>
