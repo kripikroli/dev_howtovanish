@@ -1,39 +1,7 @@
 ---
 layout: post
 title: Top 5 Ways To Keep Your Home Address Private
-date: 2015-03-31 22:28:24.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Electronic Data
-- Personal Privacy
-tags: []
-meta:
-  naff_exclude: 'false'
-  _edit_last: '3'
-  custom_retweet_text: ''
-  thesis_description: Top 5 ways to keep  your home address private and prevent what
-    ISIS did to US military members.
-  enable_retweet_button: '1'
-  _jd_twitter: ''
-  _jd_tweet_this: 'yes'
-  _wp_jd_target: http://www.howtovanish.com/2015/03/top-5-ways-to-keep-your-home-address-private/
-  _wpas_done_all: '1'
-  views: '10452'
-  _wpt_short_url: http://bit.ly/1C5BrAY
-  _jd_wp_twitter: 'a:1:{i:0;s:108:"New post: Top 5 Ways To Keep Your Home Address
-    Private http://bit.ly/1C5BrAY Like this post? Please ReTweet.";}'
-  _wpt_status_message: Tweet sent successfully.
-  bitcointips_address: 15Z5oDbj4ZuaXmRLe7PrAV3EAkzkJ45ecJ
-author:
-  login: wbrounds
-  email: bill@howtovanish.com
-  display_name: The Drifter
-  first_name: Bill
-  last_name: Rounds
-excerpt: Top 5 ways to keep  your home address private and prevent what ISIS did to
-  US military members.
 ---
 <p>ISIS has <a href="http://thinkprogress.org/world/2015/03/23/3637539/isis-claims-hacked-military-data-servers-leaked-personnel-addresses/" target="_blank">released</a> the home address of US military personnel, soliciting attacks at their homes. Regardless of one's views on war, the idea that someone can do this is frightening. No matter what conceivably controversial views you hold, you need to know how to <a title="top 5 ways to keep your home address private" href="http://www.howtovanish.com/2015/03/top-5-ways-to-keep-your-home-address-private/" target="_blank">protect your home privacy</a> so wackos and nut jobs don't get any funny ideas. Here are the <strong>Top 5 Ways To Keep Your Home Address Private</strong>.</p>
 <h2>1. Set Up A Trust</h2>
