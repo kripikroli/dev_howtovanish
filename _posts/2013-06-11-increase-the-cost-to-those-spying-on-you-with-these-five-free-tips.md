@@ -1,53 +1,7 @@
 ---
 layout: post
 title: Increase The Cost To Those Spying On You With These Five Free Tips
-date: 2013-06-11 23:27:06.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Data Mining
-- Electronic Data
-- Training
-tags:
-- Bitcoin
-- credit card
-- database
-- edward snowden
-- personal information
-- privacy disclosures
-- vpn
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  enable_retweet_button: '1'
-  custom_retweet_text: ''
-  thesis_title: Increase The Cost To Those Spying On You With These Five Free Tips
-  thesis_description: Spying requires resources. There are free and cheap ways you
-    can greatly increase the cost to those who desire to spy on you. Here are five
-    free tips.
-  thesis_keywords: edward snowden, vpn, bitcoin, database, credit card, privacy disclosures,
-    personal information
-  thesis_post_image: http://www.howtovanish.com/images/halo-forcefield.jpg
-  thesis_post_image_alt: halo forcefield
-  thesis_thumb: http://www.howtovanish.com/images/thumb-halo-forcefield.jpg
-  thesis_thumb_alt: thumb halo forcefield
-  _jd_tweet_this: 'yes'
-  _wpas_done_all: '1'
-  _wp_jd_target: http://www.howtovanish.com/2013/06/increase-the-cost-to-those-spying-on-you-with-these-five-free-tips/
-  views: '18584'
-  _wp_jd_bitly: http://bit.ly/171K6eQ
-  _jd_wp_twitter: 'a:1:{i:0;s:130:"New post: Increase The Cost To Those Spying On
-    You With These Five Free Tips http://bit.ly/171K6eQ Like this post? Please ReTweet.";}'
-  bitcointips_address: 1QDao5YgsoWZyK7kVVn4i3aSupGnp52SBt
-author:
-  login: tracemayer
-  email: trace@trace-mayer.com
-  display_name: Lohengrin
-  first_name: Lohengrin
-  last_name: ''
-excerpt: Spying requires resources. There are free and cheap ways you can greatly
-  increase the cost to those who desire to spy on you. Here are five free tips.
 ---
 <p>They copied and stored all your emails, phone calls and texts? <em>You had no idea.</em></p>
 <p>They <a title="survive in captivity" href="http://www.howtovanish.com/2010/12/how-to-survive-in-captivity/" target="_blank">jacked your device's memory and bandwidth to report back with your personal information</a> without a single thought to how you would feel? <em>Insensitive pricks.</em></p>
