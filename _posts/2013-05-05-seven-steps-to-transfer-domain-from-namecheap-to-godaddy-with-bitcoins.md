@@ -1,57 +1,7 @@
 ---
 layout: post
 title: Seven Steps To Transfer Domains To Namecheap From Godaddy With Bitcoins
-date: 2013-05-05 02:44:59.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Training
-tags:
-- Bitcoin
-- godaddy
-- namecheap
-- privacy
-- transfer domain
-meta:
-  naff_exclude: 'false'
-  _edit_last: '1'
-  enable_retweet_button: '1'
-  custom_retweet_text: ''
-  thesis_title: Seven Steps To Transfer Domains To Namecheap From Godaddy With Bitcoins
-  thesis_description: In these seven easy steps you will learn how to transfer a domain
-    from Godaddy to Namecheap using bitcoins so you can better protect your privacy.
-  thesis_keywords: namecheap, godaddy, bitcoin, transfer domain, privacy
-  _jd_tweet_this: 'yes'
-  thesis_post_image: http://www.howtovanish.com/images/godaddy-sopa.jpg
-  thesis_post_image_alt: godaddy sopa
-  thesis_thumb: http://www.howtovanish.com/images/thumb-godaddy-sopa.jpg
-  thesis_thumb_alt: thumb godaddy sopa
-  _wpas_done_all: '1'
-  views: '18518'
-  _wp_jd_bitly: http://bit.ly/11LdRZU
-  _wp_jd_target: http://www.howtovanish.com/2013/05/seven-steps-to-transfer-domain-from-namecheap-to-godaddy-with-bitcoins/
-  _jd_wp_twitter: 'a:4:{i:0;s:134:"New post: Seven Steps To Transfer Domain From Namecheap
-    To Godaddy With Bitcoins http://bit.ly/11LdRZU Like this post? Please ReTweet.";i:1;s:137:"Post
-    Edited: Seven Steps To Transfer Domain From Namecheap To Godaddy With Bitcoins
-    http://bit.ly/11LdRZU Like this post? Please ReTweet.";i:2;s:137:"Post Edited:
-    Seven Steps To Transfer Domain To Namecheap From Godaddy With Bitcoins http://bit.ly/11LdRZU
-    Like this post? Please ReTweet.";i:3;s:138:"Post Edited: Seven Steps To Transfer
-    Domains To Namecheap From Godaddy With Bitcoins http://bit.ly/11LdRZU Like this
-    post? Please ReTweet.";}'
-  _wpt_failed: 'a:5:{s:6:"author";b:0;s:8:"sentence";s:137:"Post Edited: Seven Steps
-    To Transfer Domain To Namecheap From Godaddy With Bitcoins http://bit.ly/11LdRZU
-    Like this post? Please ReTweet.";s:5:"error";s:71:"This tweet is identical to
-    another Tweet recently sent to this account.";s:4:"code";i:403;s:9:"timestamp";i:1367847294;}'
-  bitcointips_address: 17kJws9g7WpVtDnkaai7FqZtpT6BU5Zt8R
-author:
-  login: tracemayer
-  email: trace@trace-mayer.com
-  display_name: Lohengrin
-  first_name: Lohengrin
-  last_name: ''
-excerpt: In these seven easy steps you will learn how to transfer a domain from Godaddy
-  to Namecheap using bitcoins so you can better protect your privacy.
 ---
 <p>GoDaddy spams you with worthless offers on checkout. And do not even offer a discount. Then they support SOPA and PIPA to infringe on our Internet freedom. Those bastards!</p>
 <p>Meanwhile <a title="namecheap" href="http://www.howtovanish.com/namecheap" target="_blank">Namecheap</a> donates over $100,000 to the <a title="electronic frontier foundation" href="https://www.eff.org/" target="_blank">Electronic Frontier Foundation</a> to protect our digital rights and Internet freedom. And now like most <a title="liberty proponents accept bitcoin" href="http://www.howtovanish.com/2012/09/why-bitcoin-acceptance-should-be-a-bellweather-of-liberty-proponents/" target="_blank">sane liberty proponents Namecheap accepts Bitcoin for payment</a>. Plus, they are <strong>10-30% cheaper</strong>!</p>
