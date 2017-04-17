@@ -1,0 +1,47 @@
+---
+layout: post
+title: Three Steps On How To Get Out Of A Subpoena
+published: true
+---
+<h2>Three Steps To Handle A Subpoena...</h2>
+<h2>And How To Protect Your Privacy From One</h2>
+<p>Learning how to get out of a subpoena is very important because the subpoena is one of the most invasive legal tools in the US. Its not just several pages of headache inducing legalese. It is a court order, demanding you to comply with whatever expensive command is gracing its pages. It might ask you to reveal more about your business than you would like your competitors to know. <a href="http://www.wired.com/threatlevel/2011/03/bittorrent/" target="_blank">It might reveal embarrassing personal information</a>.</p>
+<p>A subpoena doesn't even need to be signed by a judge. A court clerk, prosecutor or even a private attorney can issue a subpoena to gather information.</p>
+<p>The worst part is that you don't even have to be involved in a criminal or civil case to get served with one. All you need is to have possession of some record that is remotely likely to contain information relevant to a case or investigation. In the law we call those kinds of requests "fishing expeditions."</p>
+<p><a href="http://www.howtovanish.com/wp-content/uploads/2011/04/NoFishing1.jpg"><img class="aligncenter size-full wp-image-2450" title="NoFishing Subpoena" src="{{ site.baseurl }}/images/NoFishing1.jpg" alt="" width="200" height="200" /></a></p>
+<p>Not everybody likes fishing, especially the fish. There are ways to protect your privacy and protect the privacy of your customers or clients from an invasive subpoena with a few simple tips.</p>
+<h2>Types of Subpoenas</h2>
+<p>There are three basic types of subpoenas. One will ask you only to produce <strong>records</strong>. Another will ask you to <strong>appear in person</strong> and testify. The third will ask for <strong>both</strong>. These tips are geared towards the first, producing records, but may help for the other two as well.</p>
+<p><a href="http://www.howtovanish.com/wp-content/uploads/2011/04/Subpoena1.jpg"><img class="aligncenter size-full wp-image-2451" title="Subpoena" src="{{ site.baseurl }}/images/Subpoena1.jpg" alt="subpoena" width="320" height="300" /></a></p>
+<p>How likely are you to be served with a subpoena? Everyone's situation will be different, but when you look at how many lawsuits are filed every year, and think that there are probably a handful of subpoenas issued for each lawsuit, the chances are pretty high that you or your business will get one at some point. Every year, much more information is gathered from subpoenas than from wire taps.</p>
+<h2>Who do they send the subpoena to?</h2>
+<p>It can be directed to you, ordering you to produce records that you possess about yourself or about someone else. It can also be issued to someone else to get records they have about you. Sometimes a third party will notify you if your records have been subpoenaed, but many times, you will not have any notice at all.</p>
+<h2>What can they get with a subpoena?</h2>
+<p>Either you or a third party are ordered to produce just about any record that is kept. There is no need for probable cause, all they need is some reasonable belief that there might be evidence in the records requested. Those records include anything like customer orders, invoices, repair reports, subscriber lists, contracts, memos, meeting minutes, and lots of other things.</p>
+<p>There are a few things that you don't have to produce. Privileged material, like communications with your lawyer, remain private. Also, things like emails, text messages and voice mail require a higher standard for law enforcement and opponents to collect. A subpoena can still get a list of the numbers you dialed, the websites you visited and lots of other information that could lead to more evidence anyways.</p>
+<h2>How To Get Out Of A Subpoena - What to do if you get a subpoena.</h2>
+<h3><strong>Step 1.</strong></h3>
+<p>Take the paper and close your door or walk away. Don't say anything to the person giving it to you, don't invite them in, don't read it in front of them, don't buy them a beer. Just take it and get to a phone.</p>
+<p><a href="http://www.howtovanish.com/wp-content/uploads/2011/04/phonearticle.jpg"><img class="aligncenter size-full wp-image-2452" title="phonearticle subpoena" src="{{ site.baseurl }}/images/phonearticle.jpg" alt="" width="200" height="237" /></a></p>
+<h3><strong>Step 2. </strong></h3>
+<p>Call your lawyer. You can challenge a subpoena in court before you have to produce anything. If its too broad or burdensome to comply with or if it seeks privileged material then you may be able to limit the scope of what you have to produce and you may even be able to quash it completely.</p>
+<p>You can even challenge a subpoena received by a third party if any of your own records would be disclose and, assuming you know about the subpoena in time to challenge it. A lawyer can also help make sure you limit the documents you produce to the bare essentials.</p>
+<p>You do not want to waste time and money disclosing more than you have to and it is responsible citizenship to not provide a huge amount of unneeded documents that are irrelevant yet would cost taxpayer funds to sift through.</p>
+<h3><strong>Step 3.</strong></h3>
+<p>Don't ignore a subpoena.  You could be held in contempt of court if you do.</p>
+<h2>Prevent Disclosure of Records From a Subpoena</h2>
+<p>Keep as few records as possible. If you don't have it then you either will not or cannot produce it. The more records you have then the more likely it is that you have something that someone else wants.</p>
+<p>Have a clear document retention policy and stick to it. If you are selectively destroying a few records here and there then it might look like you are trying to hide evidence. Never destroy records after a subpoena is issued or even if you think one might have been issued. That is a big no no.</p>
+<h2>Make Fewer Records Yourself</h2>
+<p>You may find it hard to learn how to get out of a subpoena since third parties can be compelled to disclose details about you and since you may not always know this with enough time to challenge the subpoena and therefore you should limit the records that other companies and individuals have about you. Simply reduce the footprints of data you leave all over the place.</p>
+<p>Be as anonymous as possible to other companies that might be making records with your information. Use proxy servers, <a href="https://www.torproject.org/" target="_blank">Tor</a>, VPNs, <a href="http://www.startpage.com/" target="_blank">Startpage</a>, <a href="http://www.howtovanish.com/Prepaid Cell Phone">prepaid cell phones</a>, <a href="http://www.howtovanish.com/2009/10/the-sweet-sound-of-cash/" target="_blank">pay for things in cash</a>, and many other techniques from the <a href="http://www.howtovanish.com/htvbookaddtocart">book How to Vanish</a>. This way, even if third party records are disclosed, they do not immediately identify you.</p>
+<h2>Retain Less Data</h2>
+<p>You may learn how to get out of a subpoena to be fairly easy if you simply have a zero knowledge policy to begin with. Even if you collect some information about customers or yourself, you can eliminate unnecessary data on a regular basis according to your written data retention policy.</p>
+<p><a href="http://www.heidi.ie/node/6" target="_blank">Securely delete old files</a>, anonymize marketing data, delete emails, <a href="http://www.dban.org/" target="_blank">wipe old hard drives</a>, <a href="http://www.howtovanish.com/2010/11/how-to-use-dropbox-truecrypt-transfer-files/" target="_blank">use encryption</a> to store and send files, and clear your browsing history. And don't forget the old fashioned technique of <a href="http://www.howtovanish.com/PaperShredder">shredding your trash</a>.</p>
+<p><a href="http://www.howtovanish.com/wp-content/uploads/2011/04/Offshore.jpg"><img class="aligncenter wp-image-2453 size-full" title="Offshore how to get out of a subpoena" src="{{ site.baseurl }}/images/Offshore.jpg" alt="Offshore how to get out of a subpoena" width="520" height="265" /></a></p>
+<h2>Use Offshore Companies</h2>
+<p>Records of companies outside of US jurisdiction are harder to reach by simple court processes. Some countries, like Panama, are known for flagrantly disregarding US court orders.</p>
+<p>If you want be successful when learning how to get out of a subpoena and protect your records then use foreign companies. You can get email (like <a href="http://www.howtovanish.com/2010/03/husmail-husmail-login/" target="_blank">Hushmail</a>), VPNs (like <a href="http://www.howtovanish.com/privateinternetaccess" target="_blank">Private Internet Access</a>), and a lot of other services from foreign countries.</p>
+<h2>Conclusion</h2>
+<p>All of these measures don't mean that you will never be served with a subpoena.  It means that if you are lucky you can respond with the glorious "certification of no records. "  But it will still be a win if you can reduce the number of records that you have to produce from millions down to dozens.</p>
+<p>If you can figure out how to get out of a subpoena then it is a lot easier, less expensive and will protect more privacy than if you simply submit. Check out other ways to reduce the records that you make and keep with the <a href="http://www.howtovanish.com/htvbookaddtocart">book How To Vanish</a>.</p>
