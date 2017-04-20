@@ -1,0 +1,155 @@
+---
+layout: post
+title: How To Vanish The Book
+published: true
+---
+<p>The book How To Vanish is now available!</p>
+<p>[HTML1]</p>
+<p>[HTML7]</p>
+<h3 style="text-align: left;">Free Video 1 - Protect Your Privacy: Keep The Public Out</h3>
+<p>[HTML2]</p>
+<h2>Free Video 2 - Encryption</h2>
+<p>[HTML3]</p>
+<h2>Free Video 2B - TrueCrypt Tutorial</h2>
+<p>[HTML4]</p>
+<h2>Free Video 3 - Release Date Announced</h2>
+<p>Free Bonuses No Longer Available</p>
+<p>[HTML5]</p>
+<p>[HTML7]</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> Is Your Private, Personal Information Available To The Public?</span></p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> Do You Want To Take Control Of That Right Now?</span></p>
+<p><span style="line-height: 120%; font-size: x-large;"> If you answered "yes" </span> to either or both of these questions, I have good news for you.</p>
+<p>For the first time ever, I am sharing how to protect your personal and financial privacy so that YOU can control how much of your information can be found by the public. I have created a complete guide that combines a comprehensive strategy with all of the specific tactics you need to eliminate the threats to your privacy. Nobody has ever offered this kind of thing to the public before in such a tight and efficient way. This guide will show you how to legally protect the one thing that should be yours alone, your privacy!</p>
+<p>Imagine if you were able to live your life like any normal person but not have basic facts, like your home address or phone number known, or even for sale, to the public. Think about what it would be like if you could use the internet for the same things that you do now, without having to worry about someone on the other side of the globe compromising your connection and your information. Or, if you could prevent the theft of your identity and prevent dozens of hours, and thousands of dollars, to repair your credit, while the criminals go completely unpunished!</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “We All Need Some Privacy”</span></p>
+<p>If you are anything like me you want to live your life, and not be bothered by people who have no business knowing anything about you or your family. You want to be free to do the things that you love to do, without worrying about personal safety, being singled out for unpopular political or religious beliefs, and without being treated like you are suspected of a crime for your regular, lawful activities.</p>
+<p>Some of you have worked hard and worked smart throughout your life and unfortunately, might draw unwanted attention from overzealous litigators, identity thieves and possibly others.</p>
+<p>All of you want to do this without having to take extreme measures so you can continue to enjoy life while living under the radar. Whether it’s doing a few simple things to avoid being the low hanging fruit, to completely vanishing, you want to do it as easily and seamlessly as possible.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “Lack Of Privacy Endangers Your Wealth And Well Being”</span></p>
+<p>But the world we live in does not always make it easy to keep our privacy. There are constant threats to your right to be private, all of which degrade your quality of life.</p>
+<p>Government programs in countries all over the world are unleashed to track citizens far more than they track terrorists. From constant surveillance, to tracking your money at all times, to monitoring your phone calls, internet traffic, and making you choose between dancing naked or being sexually assaulted at the airport, your privacy is in danger.</p>
+<p>Not to mention the nearly complete evisceration of the Fourth Amendment, the Amendment that was supposed to protect us from unreasonable search and seizure. And even the dismantling of our right to remain silent and our right to a speedy trial, an attorney, habeus corpus, and a lot of other rights that were formally recognized for hundreds or thousands of years. Those used to protect the individual’s privacy, but not anymore.</p>
+<p>Plus, technology has progressed faster than our ability to manage the risks. Stalkers and creeps can look a person up and gather so much information for free it is amazing. Plus there is a lot more that could be even more harmful if they are willing to break a law or two and it is almost impossible to enforce those laws against them.</p>
+<p>Private companies are getting in on the act too. They are collecting data from people several times a day, compiling and combining it into massive transactional databases that track everything you do at almost all times. And they don’t just keep this to themselves. They sell it to anyone willing to buy it for a few measly pennies.</p>
+<p>It is only a matter of time before this information starts to be used against people to hurt their pocket book, if it hasn’t already. Health insurers will get updates from the grocery stores on the food you buy and see if they want to raise your rates. Credit card companies will get updates from your landlord to see how much rent you pay and if you pay it on time before they make credit decisions.</p>
+<p>We have only seen a glimpse of how this information impacts people’s personal and professional lives. If your interviewer knows what books you read, would they be inclined to hire you?</p>
+<p>And, running a business in this environment can be difficult. If competitors can access your private internal data as easily as you can, how do you keep a competitive advantage or trade secrets?</p>
+<p>And the biggest threat of all to your privacy is organized crime. The future of organized crime is not drugs or guns, it is information. They steal lots of it from thousands of miles away, and have almost no risk of getting caught. Plus it can be worth a lot of money.</p>
+<p>[HTML7]</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “The Dangerous Myth That You Should Never Believe”</span></p>
+<p>So many people have thrown up their hands and declared, like Mark Zuckerberg, “Privacy is dead!” Despite his monetary conflict of interest, he sells his user’s personal information for money, many people think it is futile to try and do anything to protect any of their remaining privacy, or to try and get more of it.</p>
+<p>You might even be worried because you have thought about protecting your privacy but all you could find was information from disreputable sources advising people how to fake their own death and other illegal, stupid and ineffective stuff like that.</p>
+<p>You may have thrown up your hands and thought there is nothing you can do, short of moving to a cave in the mountains and living as a hermit.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"><br />
+“The Secret To Successful Privacy”</span></p>
+<p>I know it all sounds way too good to be true, but I am going to let you in on a powerful secret. There are lots of simple tools and techniques to keep your private life away from prying public eyes. No matter how much privacy you have now, or how much you want, there is an answer and it probably doesn’t require any camping skills.</p>
+<p>How To Vanish is the complete guide that shows you exactly what to do to protect every aspect of your life from snoops, criminals, and even from oppressive governments or other organized criminal organizations around the world. And I’m going to show you that it is a lot easier and cheaper than you think.</p>
+<p>What makes this approach so different is that it actually incorporates the most successful tools and tactics that are all completely legal, and shows you how to avoid the mistakes that hundreds of others have made, to make this the most comprehensive, solid, and successful privacy strategy possible.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “Others Have Already Protected Themselves”</span></p>
+<p>I have seen the dangers to people who don’t protect their privacy in my law practice. I’ve also seen lots of people who did the simple things that they need to protect themselves. And there are thousands of others who have successfully put into practice the things that I included in the book.</p>
+<p>These strategies aren’t based on hypotheticals and hopeful ideas. They are the things that have worked for lots of other people. Real people, just like you, who have taken these strategies and applied them in their life to protect their privacy.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “How You Can Avoid Being A Victim”</span></p>
+<p>But you don't have to be a famous celebrity to benefit from this book. You’ll discover exactly how a regular person can protect their privacy and you will learn how to do it to fit exactly within your budget, even if your budget is free or time is limited. You will learn how to maximize your benefit and save as much money as possible. We have organized the material by its cost in terms of time and money.</p>
+<p>Everything you need to know to safely and effectively protect your privacy and the privacy of your family is revealed in complete detail. Here's an overview of what's included in this comprehensive book:</p>
+<p>[HTML7]</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “Just A Few Of The Benefits You Will Get From This Powerful Book”</span></p>
+<ul>
+<li>Save money by maximizing the low cost and free tools and strategies that are clearly explained..</li>
+</ul>
+<ul>
+<li>Save time. Nothing is left out, but everything is treated very concisely so you do not have to wade through lots of unusable material to get to the meat.</li>
+</ul>
+<ul>
+<li>Enjoy a higher standard of living for you and your family because of the increased time, money, or both.</li>
+</ul>
+<ul>
+<li>No need to drastically alter your lifestyle. For most people, a few simple changes will be all they need to become as private as they want to be. 20% of the recommendations yield 80% of the results.</li>
+</ul>
+<ul>
+<li>Be worry free. This guide is based entirely in the law so you do not have to worry about undue attention or retaliation.</li>
+</ul>
+<ul>
+<li>Protect constitutional rights. The right to be free from unreasonable search and seizure, free speech, the right to peaceably assemble, the right not to be a witness against yourself, and many other fundamental human rights are quickly being eroded in all countries, particularly because of the war on terror. How To Vanish shows you how to protect those rights so that you can continue to enjoy those fundamental freedoms.</li>
+</ul>
+<ul>
+<li>Avoid making these huge mistakes that most people make. Many people either fail to do anything or fail to do it correctly. You will learn the best way to protect many aspects of your privacy the right way.</li>
+</ul>
+<ul>
+<li>Fits anyone's privacy needs. Whether you just want to do a few simple things to make yourself a little more private, to the person who needs extreme amounts of privacy, you will find all of the tools and steps you need to take in this one source.</li>
+</ul>
+<ul>
+<li>Instant download. You do not have to wait days, or even hours to start applying these tactics. The download is instant so you can start reading it within seconds.</li>
+</ul>
+<ul>
+<li>Simplifies your life. How To Vanish is the complete resource that you can use to protect all aspects of your private life, plus it is simple and straightforward.</li>
+</ul>
+<ul>
+<li>Enjoy more peace of mind. You will know that nobody will be keeping track of the things that you have chosen to make vanish so you can have that sense of peace and calm that you crave.</li>
+</ul>
+<ul>
+<li>Continue to use social media. Some people like the power that social media provides. Although it is a risk to your privacy, if the risk is handled properly and minimized, most people don't have to abandon social media to enjoy solid privacy. I give you a lot more than a few privacy settings to show you how.</li>
+</ul>
+<ul>
+<li>Comes from a reputable source. Unlike some people who might suggest faking your own death and other wildly illegal things, How To Vanish is prepared by a practicing attorney so you know that the information is reliable and legal.</li>
+</ul>
+<ul>
+<li>Reduce the threat of identity theft. 1 in every 20 Americans will be the victim of identity theft each year. It costs, on average, several thousand dollars and dozens of hours to repair the damage done, if it can even be repaired. This book will help reduce your risk of identity theft drastically.</li>
+</ul>
+<ul>
+<li>Images help describe some complicated and complex principles that are very beneficial to everybody.</li>
+</ul>
+<ul>
+<li>Learn how to apply one simple yet powerful tactic to purchase things online completely anonymously.</li>
+</ul>
+<ul>
+<li>Stay under the radar. This guide is the best way to fly under the radar of Big Brother, large corporations and low lives who have no business getting up in your business.</li>
+</ul>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “Cure Information Diarrhea And Stop Leaking Your Personal Information Around In Public”</span></p>
+<p>That is only a partial overview of what is in How To Vanish The Book. There's actually a whole lot more than I have room to cover here, but you get the picture. The important thing is this: there is a complete strategy that you can use to enjoy the success that you already have in your life. The simple techniques we share can help you quickly and cost effectively protect a large portion of your privacy. There are a few techniques that, once implemented, will help you keep a large majority of your personal information from leaking into the public sphere. Stop it at the source.</p>
+<p>The strategies and the techniques discussed have already helped people like you. And the great thing is, these proven techniques can work for you as well, even if you do not have thousands of dollars and hundreds of hours to spend on protecting your privacy. Curing Information Diarrhea is not that expensive in either time or money. You just have to know how and then begin to practice good privacy hygiene habits. With that in mind, lets take a look at exactly what this book contains.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"><br />
+“Here's What This Book Offers”</span></p>
+<p>Here's how you can start immediately protecting your privacy.</p>
+<ul>
+<li>Easy To Use. I have already done the hard work to simplify and streamline the tools and strategies into a book less than 150 pages. This means that you will be able to achieve maximum benefit with minimal effort and cost.</li>
+</ul>
+<ul>
+<li>Clearly Understand What To Avoid. I show you exactly what exposes you to others and threatens your privacy. You will know exactly what to do to avoid that kind of unwanted exposure.</li>
+</ul>
+<ul>
+<li>Simple Road Map To Follow. This map shows you where you need to focus your time and effort, like showing you the shortest route between two points on a map. You will not waste time, money or energy doing things that are ineffective or irrelevant. This makes the transition for you as easy as possible.</li>
+</ul>
+<ul>
+<li>Diagrams make difficult concepts, relationships and flows of information extremely easy to understand and master.</li>
+</ul>
+<p>&nbsp;</p>
+<p>[HTML7]</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;">“Get More Privacy Right Away”</span></p>
+<p>After seeing everything you get so far, you may be asking yourself, "Where do I<br />
+start? How do I know these techniques will actually work for me and my own situation?”</p>
+<p>Don't worry, I've got you covered. This special book is specifically designed to<br />
+give you a simple a la carte approach to pick and choose the best tactics for you. Whether you just want to avoid being low hanging fruit, all the way to the person who is a public figure, and everyone in between will be able to apply the same tools and techniques to a different degree to get the privacy protection you want and need.</p>
+<p>These techniques will work, no matter where you live. They can be especially useful if you spend any time within a country that has authoritarian laws that prevent you from exercising your basic, fundamental human rights.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> "It's Easy To Get Started"</span></p>
+<p>Getting started couldn't be easier. The cost of this complete privacy guide is just $27. That includes the comprehensive guide. Even though the price is extremely reasonable (about the same as one good meal at a restaurant), here's what's really important. If this program was just another sketchy plan to break the law in order to protect your privacy, it wouldn't matter what the price is, it wouldn't be worth it.</p>
+<p>But if you can legally protect your privacy, protect your family, secure your fundamental human rights, keep some things under the radar, and have the comfort and peace of mind that you are not being followed at all times, what is that actually worth to you?</p>
+<p>I can't put an exact dollar figure on it for you – only you can do that. But I can tell you this: at $27, this guide could very possibly be the best bargain and the best investment you'll ever make.</p>
+<p>To get on track to protecting as much of your privacy as you want, click the “Add To Cart” button to go to the secure order form right now.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"><br />
+“I'll "Sweeten The Deal" Even More – I Invite You To Put All Of The Risk Entirely On Me”</span></p>
+<p>Now, in case you have any lingering doubts whatsoever, I want to make it foolproof for you. You see, I completely guarantee that there is at least one tool or tactic in this book that will make you more private if you implement it. Plus I know some people are very busy and will need some time to go through and digest the material. So here's what I'd like you to do. Learn these tools and techniques for yourself for one full year with no risk whatsoever. No kidding, 365 complete days!</p>
+<p style="text-align: left;">The risk is completely mine.<br />
+<a href="http://www.howtovanish.com/wp-content/uploads/2010/07/Guarantee.jpg"><img class="size-medium wp-image-1907 aligncenter" title="Guarantee" src="{{ site.baseurl }}/images/Guarantee-300x167.jpg" alt="" width="300" height="167" /></a></p>
+<p>You can have access to this great book to begin applying as many techniques as possible. Since most of them are easy and cost very little money, you will be able to implement a lot of no-cost or low-cost techniques.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “Your Success Is Completely Backed By My No-Nonsense Guarantee”</span></p>
+<p>If you can't use at least one technique to protect more of your privacy... if you're ever unhappy with the book for any reason... I will promptly refund every cent you invested.</p>
+<p>By the way, this guarantee is in effect up until the final minute of the final day of the 365 day guarantee period. That's how confident I am that How To Vanish will change forever the amount of privacy you have and the peace of mind that you have in your life.</p>
+<p><span style="line-height: 120%; font-family: times; color: red; font-size: xx-large;"> “Don't Settle For Less<br />
+– Do Something About It Today”</span></p>
+<p>Now that you know what's possible, you'll never again have personal information exposed to the public that you would rather keep under the radar. You can have more peace of mind knowing that you and your family are protected and not being watched constantly. And, you can do it without having to drastically alter your lifestyle. Gain control of your own personal information and stay under the radar.</p>
+<p>In short, you can restore the joy of personal autonomy and freedom. Don't wait. Take a minute and place your order today. Let's get started right now on protecting your privacy!</p>
+<p>[HTML7]</p>
+<p><span style="line-height: 120%; font-size: x-large;"> P.S. Remember,</span> following this book could save you thousands of dollars and dozens of hours by making you much less vulnerable to identity theft. That means that this innovative book really doesn't cost you anything. The entire cost will actually be paid back to you many times over just by protecting you in that way.</p>
+<p>Think of it this way. After just one year of using some of the free and easy tools and tactics in this book to enhance your privacy, you will have achieved a level of privacy and safety that would cost you thousands of dollars to get with other, traditional means. And if you continue to use those strategies and tactics year after year, compounded annually, the return on investment will be enormous!</p>
+<p>You and I both know you want to stay under the radar. Isn't it time you started making that a reality? Check out this video or click on the "Add To Cart" button now to get How To Vanish.</p>
+<p>[HTML7]</p>
