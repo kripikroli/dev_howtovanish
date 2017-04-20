@@ -37,31 +37,31 @@
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 							<li>
-								<a href="">About</a>
+								<a href="{{ site.baseurl }}/about">About</a>
 								<ul>
-									<li><a href="#">Contact</a></li>
-									<li><a href="#">Purpose</a></li>
+									<li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+									<li><a href="{{ site.baseurl }}/purpose">Purpose</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Blog</a></li>
+							<li><a href="{{ site.baseurl }}/blog">Blog</a></li>
 							<li>
-								<a href="">Products</a>
+								<a href="{{ site.baseurl }}/products">Products</a>
 								<ul>
-									<li><a href="#">Free Privacy Guide</a></li>
-									<li><a href="#">Bank Privacy Report</a></li>
-									<li><a href="#">How To Vanish The Book</a></li>
-									<li><a href="#">Tax Domicile Report</a></li>
-									<li><a href="#">Secrets Of Independent Contractors</a></li>
-									<li><a href="#">5 Steps To Anonymous Online Speech</a></li>
+									<li><a href="{{ site.baseurl }}/free-privacy-guide">Free Privacy Guide</a></li>
+									<li><a href="{{ site.baseurl }}/bank-privacy-report">Bank Privacy Report</a></li>
+									<li><a href="{{ site.baseurl }}/how-to-vanish-book">How To Vanish The Book</a></li>
+									<li><a href="{{ site.baseurl }}/tax-domicile-report">Tax Domicile Report</a></li>
+									<li><a href="{{ site.baseurl }}/secret-of-independent-contractors">Secrets Of Independent Contractors</a></li>
+									<li><a href="{{ site.baseurl }}/steps-to-anonymous-online-speech">5 Steps To Anonymous Online Speech</a></li>
 								</ul>
 							</li>
 							<li>
-								<a href="">Privacy Tools</a>
+								<a href="{{ site.baseurl }}/privacy-tools-and-resources">Privacy Tools</a>
 								<ul>
-									<li><a href="#">Privacy Software</a></li>
+									<li><a href="{{ site.baseurl }}/privacy-software">Privacy Software</a></li>
 								</ul>
 							</li>
-							<li><a href="#">New? Start Here</a></li>
+							<li><a href="{{ site.baseurl }}/new-to-how-to-vanish-start-here">New? Start Here</a></li>
 						</ul>
 					</nav>
 
