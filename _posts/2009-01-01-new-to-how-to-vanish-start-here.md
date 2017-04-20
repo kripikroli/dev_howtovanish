@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: New To How To Vanish Start Here
 description: Starting To Vanish - The Beginners Steps To Controlling Their Privacy
 published: true
