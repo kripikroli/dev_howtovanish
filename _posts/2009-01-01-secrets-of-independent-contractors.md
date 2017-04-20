@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Secrets of Independent Contractors
 published: true
 ---
