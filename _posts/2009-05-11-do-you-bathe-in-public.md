@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do You Bathe In Public
+description: Do You Bathe In Public
 published: true
 ---
 
