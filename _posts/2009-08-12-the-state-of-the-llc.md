@@ -13,17 +13,18 @@ One major consideration is, of course, the cost. The cost of filing and maintain
 <p><strong>Legal Protection</strong><br />
 The laws of the state of the LLC can effect greatly how you are able to conduct your affairs and how favorably you and your LLC will be treated.  The combination of formal requirements, tax treatment and other legal frameworks combine to to create an overall legal environment in which your LLC will operate. <br /> <br />For this purpose, the states of <a title="state of llc" href="http://www.sos.state.nv.us/" target="_blank">Nevada</a> and <a title="state of llc" href="http://sos.delaware.gov/default.shtml" target="_blank">Delaware</a> are generally known as the two states with laws most favorable for LLCs.</p>
 <p><strong>Privacy Protection</strong></p>
-<p>All states require some disclosure of information to choose their state as the state of the LLC. By far the state that requires the least disclosure of personal information is <a title="state of llc" href="http://www.nmprc.state.nm.us/cf.htm" target="_blank">New Mexico</a>.  <br /> <br />An LLC is already a great way to protect your privacy, regardless of the disclosures made to form it.  The added privacy that a New Mexico LLC offers makes the protection that much more powerful.</p>
+<p>All states require some disclosure of information to choose their state as the state of the LLC. By far the state that requires the least disclosure of personal information is <a title="state of llc" href="http://www.nmprc.state.nm.us/cf.htm" target="_blank">New Mexico</a>.  <br /><br />An LLC is already a great way to protect your privacy, regardless of the disclosures made to form it.  The added privacy that a New Mexico LLC offers makes the protection that much more powerful.</p>
 <p><strong>Conclusion</strong></p>
 <p>The state of the LLC you form is an important consideration in optimizing your privacy protection.  Taking into account these, and any other considerations you may have, will help you to make the best decision of where to form your LLC.  <br /> <br />Many of the other considerations for choosing the state will depend on where you intend to have your <a href="http://www.howtovanish.com/taxdomicile">tax domicile</a> and other things found in the book <a href="http://www.howtovanish.com/HTVBook">How To Vanish</a>.  You will want to find an <a title="LLC attorney" href="http://www.billroundsjd.com" target="_blank">attorney to help you form your LLC</a>.</p>
 <h3>Find the Secretary of State’s Business Search for all 50 States</h3>
 <p>[HTML1]</p>
 <p><strong>Starting Point for Forming an LLC in All 50 States</strong></p>
-<p><!-- 		@page { size: 8.5in 11in; margin: 0.79in } 		P { margin-bottom: 0.08in } --><a title="state of the llc" href="http://www.sos.state.al.us/" target="_blank">Alabama</a></p>
+<!-- 		@page { size: 8.5in 11in; margin: 0.79in } 		P { margin-bottom: 0.08in } -->
 
 <table>
   <tr>
     <td>
+      <p><a title="state of the llc" href="http://www.sos.state.al.us/" target="_blank">Alabama</a></p>
       <p><a title="state of llc" href="http://www.commerce.state.ak.us/occ/" target="_blank">Alaska</a></p>
       <p><a title="state of llc" href="http://www.azsos.gov/" target="_blank">Arizona</a></p>
       <p><a title="state of llc" href="http://sos.state.ar.us/" target="_blank">Arkansas</a></p>
