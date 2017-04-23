@@ -3,7 +3,7 @@ layout: post
 title: Fraudulent Identification Documents
 published: true
 ---
-<p><strong>FORGED TRAVEL DOCUMENTS</strong></p>
+<h2>FORGED TRAVEL DOCUMENTS</h2>
 <p>Most people first heard about fraudulent identity documents in high school when some of their friends would try to buy cigarettes or beer while being underage with forged identities.  The <a href="http://www.howtovanish.com/2009/06/fraudulent-identification-documents/#black market for documents">black market for forged identification documents</a> has been around as long as authentic documents.</p>
 <p><a href="http://www.howtovanish.com/2009/06/fraudulent-identification-documents/#Cases of Fraudulent Documents">Forged identity documents</a> have existed since the inception of the insidious practice of impeding the unalienable right to freedom of movement.  With powerful personal computers, printing capabilities, etc. the cat and mouse game of document-fraud has escalated tremendously.</p>
 <p>A stated goal of the Western Hemisphere Travel Initiative (WHTI) is to decrease the efficacy of forged travel documents.  Immigration officials will have to scrutinize a smaller number of travel documents which will be more difficult to alter, counterfeit or obtain through fraud.</p>
