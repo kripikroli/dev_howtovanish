@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Anonymous Web Surfing - Protect Your Internet Privacy
+description: Anonymous Web Surfing
 published: true
 ---
 <p>Learn how to protect your Internet privacy with anonymous web surfing. Remember, <a href="http://www.ivyjoy.com/fables/hansel.html">Hansel and Gretel</a> wandered through the forest leaving tasty bread crumbs behind to find their way home. Unfortunately, the various little critters of the forest found those little bread crumbs irresistible and gobbled them up leaving Hansel and Gretel lost and hungry.</p>
