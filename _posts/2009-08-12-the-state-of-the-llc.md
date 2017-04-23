@@ -3,7 +3,7 @@ layout: post
 title: The State of The LLC
 published: true
 ---
-<p>This may sound like I am referring to the State of the Union address traditionally given by the president each year. Rather than engage in a ceremonial activity, mostly void of substance, delineating the perceived health and status of the LLC as a business form, the more important issue regarding the state of the LLC is how to choose the state in which it is formed.<br /> <br />If the state of the LLC is chosen wisely, there could be <a title="state of llc" href="http://www.howtovanish.com/2009/08/llcs-as-a-privacy-curtain/" target="_blank">significant benefits to privacy</a> which can be legally and effectively taken advantage of.</p>
+<p>This may sound like I am referring to the State of the Union address traditionally given by the president each year. Rather than engage in a ceremonial activity, mostly void of substance, delineating the perceived health and status of the LLC as a business form, the more important issue regarding the state of the LLC is how to choose the state in which it is formed.<br /><br />If the state of the LLC is chosen wisely, there could be <a title="state of llc" href="http://www.howtovanish.com/2009/08/llcs-as-a-privacy-curtain/" target="_blank">significant benefits to privacy</a> which can be legally and effectively taken advantage of.</p>
 <p><strong>What is the difference?</strong></p>
 <p>Each state will require filing some kind of form provided by the state along with a filing fee and probably articles of organization. I have provided a link at the bottom of this page as a starting point to the online resources for the requirements, forms, and fees required by all 50 of the United States. There are also several commercial products available which may be consulted to help you to do the same thing.<br />
 <strong>Price</strong><br />
@@ -20,52 +20,65 @@ The laws of the state of the LLC can effect greatly how you are able to conduct 
 <p>[HTML1]</p>
 <p><strong>Starting Point for Forming an LLC in All 50 States</strong></p>
 <p><!-- 		@page { size: 8.5in 11in; margin: 0.79in } 		P { margin-bottom: 0.08in } --><a title="state of the llc" href="http://www.sos.state.al.us/" target="_blank">Alabama</a></p>
-<p><a title="state of llc" href="http://www.commerce.state.ak.us/occ/" target="_blank">Alaska</a></p>
-<p><a title="state of llc" href="http://www.azsos.gov/" target="_blank">Arizona</a></p>
-<p><a title="state of llc" href="http://sos.state.ar.us/" target="_blank">Arkansas</a></p>
-<p><a title="state of llc" href="http://www.sos.ca.gov/" target="_blank">California</a></p>
-<p><a title="state of llc" href="http://www.sos.state.co.us/" target="_blank">Colorado</a></p>
-<p><a title="state of llc" href="http://www.ct.gov/sots/site/default.asp" target="_blank">Connecticut</a></p>
-<p><a title="state of llc" href="http://sos.delaware.gov/default.shtml" target="_blank">Delaware</a></p>
-<p><a title="state of llc" href="http://sunbiz.org/" target="_blank">Florida</a></p>
-<p><a title="state of llc" href="http://sos.georgia.gov/" target="_blank">Georgia</a></p>
-<p><a title="state of llc" href="http://hawaii.gov/dcca/areas/breg/registration/dllc/" target="_blank">Hawaii</a></p>
-<p><a title="state of llc" href="http://www.idahobizhelp.org/legal_ent.htm" target="_blank">Idaho</a></p>
-<p><a title="state of llc" href="http://www.sos.state.il.us/" target="_blank">Illinois</a></p>
-<p><a title="state of llc" href="http://www.in.gov/sos/" target="_blank">Indiana</a></p>
-<p><a title="state of llc" href="http://www.sos.state.ia.us/index.html" target="_blank">Iowa</a></p>
-<p><a title="state of llc" href="http://www.kssos.org/" target="_blank">Kansas</a></p>
-<p><a title="state of llc" href="http://www.sos.ky.gov/business/filings/forms/" target="_blank">Kentucky</a></p>
-<p><a title="state of llc" href="http://www.sos.louisiana.gov/" target="_blank">Louisiana</a></p>
-<p><a title="state of llc" href="http://www.state.me.us/sos/" target="_blank">Maine</a></p>
-<p><a title="state of llc" href="http://www.sos.state.md.us/" target="_blank">Maryland</a></p>
-<p><a title="state of llc" href="http://www.sec.state.ma.us/" target="_blank">Massachusetts</a></p>
-<p><a title="state of llc" href="http://www.michigan.gov/sos" target="_blank">Michigan</a></p>
-<p><a title="state of llc" href="http://www.sos.state.mn.us/home/index.asp" target="_blank">Minnesota</a></p>
-<p><a title="state of llc" href="http://www.sos.state.ms.us/" target="_blank">Mississippi</a></p>
-<p><a title="state of llc" href="http://www.sos.mo.gov/" target="_blank">Missouri</a></p>
-<p><a title="state of llc" href="http://sos.mt.gov/" target="_blank">Montana</a></p>
-<p><a title="state of llc" href="http://www.sos.state.ne.us/dyindex.html" target="_blank">Nebraska</a></p>
-<p><a title="state of llc" href="http://www.sos.state.nv.us/" target="_blank">Nevada</a></p>
-<p><a title="state of llc" href="http://www.sos.nh.gov/index.html" target="_blank">New Hampshire</a></p>
-<p><a title="state of llc" href="http://www.state.nj.us/state/" target="_blank">New Jersey</a></p>
-<p><a title="state of llc" href="http://www.nmprc.state.nm.us/cf.htm" target="_blank">New Mexico</a></p>
-<p><a title="state of llc" href="http://www.dos.state.ny.us/" target="_blank">New York</a></p>
-<p><a title="North CArolina Sec of State" href="http://www.secretary.state.nc.us/corporations/" target="_blank">North Carolina</a></p>
-<p><a title="state of llc" href="http://www.nd.gov/sos/" target="_blank">North Dakota</a></p>
-<p><a title="state of llc" href="http://www.sos.state.oh.us/sos/" target="_blank">Ohio</a></p>
-<p><a title="state of llc" href="http://www.sos.state.ok.us/" target="_blank">Oklahoma</a></p>
-<p><a title="state of llc" href="http://www.sos.state.or.us/" target="_blank">Oregon</a></p>
-<p><a title="state of llc" href="http://www.dos.state.pa.us/dos/site/default.asp" target="_blank">Pennsylvania</a></p>
-<p><a title="state of llc" href="http://www.sec.state.ri.us/" target="_blank">Rhode Island</a></p>
-<p><a title="state of llc" href="http://www.scsos.com/" target="_blank">South Carolina</a></p>
-<p><a title="state of llc" href="http://www.sdsos.gov/" target="_blank">South Dakota</a></p>
-<p><a title="state of llc" href="http://www.state.tn.us/sos/" target="_blank">Tennessee</a></p>
-<p><a title="state of llc" href="http://www.sos.state.tx.us/" target="_blank">Texas</a></p>
-<p><a title="state of llc" href="http://www.corporations.utah.gov/index.html" target="_blank">Utah</a></p>
-<p><a title="state of llc" href="http://www.sec.state.vt.us/" target="_blank">Vermont</a></p>
-<p><a title="state of llc" href="http://www.commonwealth.virginia.gov/" target="_blank">Virginia</a></p>
-<p><a title="state of llc" href="http://www.secstate.wa.gov/" target="_blank">Washington</a></p>
-<p><a title="state of llc" href="http://www.wvsos.com/" target="_blank">West Virginia</a></p>
-<p><a title="state of llc" href="http://www.sos.state.wi.us/" target="_blank">Wisconsin</a></p>
-<p><a title="state of llc" href="http://soswy.state.wy.us/" target="_blank">Wyoming</a></p>
+
+<table>
+  <tr>
+    <td>
+      <p><a title="state of llc" href="http://www.commerce.state.ak.us/occ/" target="_blank">Alaska</a></p>
+      <p><a title="state of llc" href="http://www.azsos.gov/" target="_blank">Arizona</a></p>
+      <p><a title="state of llc" href="http://sos.state.ar.us/" target="_blank">Arkansas</a></p>
+      <p><a title="state of llc" href="http://www.sos.ca.gov/" target="_blank">California</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.co.us/" target="_blank">Colorado</a></p>
+      <p><a title="state of llc" href="http://www.ct.gov/sots/site/default.asp" target="_blank">Connecticut</a></p>
+      <p><a title="state of llc" href="http://sos.delaware.gov/default.shtml" target="_blank">Delaware</a></p>
+      <p><a title="state of llc" href="http://sunbiz.org/" target="_blank">Florida</a></p>
+      <p><a title="state of llc" href="http://sos.georgia.gov/" target="_blank">Georgia</a></p>
+      <p><a title="state of llc" href="http://hawaii.gov/dcca/areas/breg/registration/dllc/" target="_blank">Hawaii</a></p>
+      <p><a title="state of llc" href="http://www.idahobizhelp.org/legal_ent.htm" target="_blank">Idaho</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.il.us/" target="_blank">Illinois</a></p>
+    </td>
+    <td>
+      <p><a title="state of llc" href="http://www.in.gov/sos/" target="_blank">Indiana</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.ia.us/index.html" target="_blank">Iowa</a></p>
+      <p><a title="state of llc" href="http://www.kssos.org/" target="_blank">Kansas</a></p>
+      <p><a title="state of llc" href="http://www.sos.ky.gov/business/filings/forms/" target="_blank">Kentucky</a></p>
+      <p><a title="state of llc" href="http://www.sos.louisiana.gov/" target="_blank">Louisiana</a></p>
+      <p><a title="state of llc" href="http://www.state.me.us/sos/" target="_blank">Maine</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.md.us/" target="_blank">Maryland</a></p>
+      <p><a title="state of llc" href="http://www.sec.state.ma.us/" target="_blank">Massachusetts</a></p>
+      <p><a title="state of llc" href="http://www.michigan.gov/sos" target="_blank">Michigan</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.mn.us/home/index.asp" target="_blank">Minnesota</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.ms.us/" target="_blank">Mississippi</a></p>
+      <p><a title="state of llc" href="http://www.sos.mo.gov/" target="_blank">Missouri</a></p>
+    </td>
+    <td>
+      <p><a title="state of llc" href="http://sos.mt.gov/" target="_blank">Montana</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.ne.us/dyindex.html" target="_blank">Nebraska</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.nv.us/" target="_blank">Nevada</a></p>
+      <p><a title="state of llc" href="http://www.sos.nh.gov/index.html" target="_blank">New Hampshire</a></p>
+      <p><a title="state of llc" href="http://www.state.nj.us/state/" target="_blank">New Jersey</a></p>
+      <p><a title="state of llc" href="http://www.nmprc.state.nm.us/cf.htm" target="_blank">New Mexico</a></p>
+      <p><a title="state of llc" href="http://www.dos.state.ny.us/" target="_blank">New York</a></p>
+      <p><a title="North CArolina Sec of State" href="http://www.secretary.state.nc.us/corporations/" target="_blank">North Carolina</a></p>
+      <p><a title="state of llc" href="http://www.nd.gov/sos/" target="_blank">North Dakota</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.oh.us/sos/" target="_blank">Ohio</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.ok.us/" target="_blank">Oklahoma</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.or.us/" target="_blank">Oregon</a></p>
+    </td>
+    <td>
+      <p><a title="state of llc" href="http://www.dos.state.pa.us/dos/site/default.asp" target="_blank">Pennsylvania</a></p>
+      <p><a title="state of llc" href="http://www.sec.state.ri.us/" target="_blank">Rhode Island</a></p>
+      <p><a title="state of llc" href="http://www.scsos.com/" target="_blank">South Carolina</a></p>
+      <p><a title="state of llc" href="http://www.sdsos.gov/" target="_blank">South Dakota</a></p>
+      <p><a title="state of llc" href="http://www.state.tn.us/sos/" target="_blank">Tennessee</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.tx.us/" target="_blank">Texas</a></p>
+      <p><a title="state of llc" href="http://www.corporations.utah.gov/index.html" target="_blank">Utah</a></p>
+      <p><a title="state of llc" href="http://www.sec.state.vt.us/" target="_blank">Vermont</a></p>
+      <p><a title="state of llc" href="http://www.commonwealth.virginia.gov/" target="_blank">Virginia</a></p>
+      <p><a title="state of llc" href="http://www.secstate.wa.gov/" target="_blank">Washington</a></p>
+      <p><a title="state of llc" href="http://www.wvsos.com/" target="_blank">West Virginia</a></p>
+      <p><a title="state of llc" href="http://www.sos.state.wi.us/" target="_blank">Wisconsin</a></p>
+      <p><a title="state of llc" href="http://soswy.state.wy.us/" target="_blank">Wyoming</a></p>
+    </td>
+  </tr>
+</table>
