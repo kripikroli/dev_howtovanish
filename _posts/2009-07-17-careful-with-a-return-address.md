@@ -3,7 +3,7 @@ layout: post
 title: Careful With A Return Address
 published: true
 ---
-<p><img class="aligncenter" title="Invesitagor" src="{{ site.baseurl }}/images/investigator.jpg" alt="" width="313" height="550" /></p>
+<center><p><img class="aligncenter" title="Invesitagor" src="{{ site.baseurl }}/images/investigator.jpg" alt="" width="313" height="550" /></p></center>
 <p><strong>PROBLEM</strong></p>
 <p>For several years now the United States Postal Service photographs every letter.  The photograph and bar codes are most likely used for routing the letters.  But knowing both the sender and receiver of correspondence allows inferences to be made.  Additionally, this information is in plain view, there is no reasonable expectation of privacy and no warrant is required.</p>
 <p><strong>FACTS</strong></p>
