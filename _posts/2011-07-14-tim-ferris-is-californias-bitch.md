@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Ferris Is California's Bitch - (When He Does Not Have To Be)
+title: Tim Ferris Is Californias Bitch
 published: true
 ---
 <p>A few years ago I ran into Tim Ferris after his speech at a WordCamp in San Francisco. I even told him about my new blog, <a title="How To Vanish" href="http://www.howtovanish.com" target="_blank">How To Vanish</a>, and he said the name was awesome.</p>
