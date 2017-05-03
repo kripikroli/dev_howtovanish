@@ -2,4 +2,7 @@ name: How To Vanish
 description: How To Vanish
 paginate: 10
 baseurl: ''
-permalink: /:title
+permalink: /:title/
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
